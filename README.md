@@ -1,4 +1,4 @@
-Summary of Next Beat Music App :
+Summary of Next Beat (NBT) Music App :
 
 The Music App project aims to develop a user-friendly mobile application that allows music enthusiasts to discover, organize, and enjoy their favorite songs and playlists. Over the course of five weeks, significant progress has been made in various areas of development.
 
